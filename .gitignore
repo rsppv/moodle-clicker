@@ -1,4 +1,5 @@
-#Entities/ConcreteUsers/*.cs
+Entities/ConcreteUsers/*.cs
+!/Entities/ConcreteUsers/UserTest.cs
 ###################
 # compiled source #
 ###################
